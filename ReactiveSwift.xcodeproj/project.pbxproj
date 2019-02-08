@@ -791,7 +791,7 @@
 					};
 					D047260B19E49F82006002AA = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1010;
 					};
 					D047261519E49F82006002AA = {
 						CreatedOnToolsVersion = 6.1;
@@ -1361,6 +1361,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -1373,6 +1374,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -1446,6 +1448,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Profile;
 		};
@@ -1509,6 +1512,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = Sources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Test;
 		};
